@@ -1,85 +1,129 @@
-# Hi, I'm Ghaith — @ghaithrb  
-Cybersecurity Engineer | Network Systems Specialist | Ethical Hacker
+<!-- Cyberpunk Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=9A4DFF&center=true&vCenter=true&width=700&lines=Ghaith+Riabi+%7C+Cybersecurity+Engineer;Network+Systems+Specialist;Ethical+Hacker+%7C+Developer;Welcome+to+my+Cyber+Space+⚡" />
+</p>
 
-🔭 I’m focused on **Cybersecurity**, **Penetration Testing**, **Hacking**  
-🛡️ Skilled in **IDS/IPS**, **SIEM**, **Threat Intelligence**, **SOC Development**  
-⚙️ **Tools**: Kali Linux, Nmap, Burp Suite, GNS3, Wireshark, Metasploit, Snort, Suricata, OpenVAS  
-📍 Based in **Tunisia** | **Security Enthusiast**
-
----
-
-## 🚀 About Me
-
-- 🧑‍💻 I'm a **Cybersecurity Engineer** with a strong focus on **ethical hacking** and **penetration testing**.
-- 🔐 I specialize in **network security**, **vulnerability assessment**, and **security operations centers (SOC)**.
-- ⚡ Passionate about exploring new technologies and constantly learning in the field of **ethical hacking** and **cyber defense**.
-- 📚 Enthusiast of **Security Tools** and **Hacking Techniques** such as SQL Injection, XSS, and Remote Code Execution.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Engineer-9A4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Engineer-5300A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tunisia-%F0%9F%87%B9%F0%9F%87%B3-3B007F?style=for-the-badge" />
+</p>
 
 ---
 
-## 🔧 Skills & Tools
+# 💜 **About Me**
 
-| **Category**          | **Tools & Technologies**                              |
-|-----------------------|-------------------------------------------------------|
-| **Programming**        | Python, Bash, C, PHP                                  |
-| **Networking & Security** | Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit, OpenVAS |
-| **System Administration** | Ubuntu Server, pfSense, Docker, Apache, Tomcat        |
-| **Certifications**     | CCNA, Linux Essentials, TryHackMe                    |
+💫 Cybersecurity Engineer focusing on **Ethical Hacking**, **Penetration Testing**, and **Network Defense**.  
+💻 Passionate about building secure infrastructures and mastering offensive & defensive techniques.
 
----
+✨ **What I Do:**
+- Ethical Hacking & Red Teaming  
+- Vulnerability Assessment  
+- SOC Development & Monitoring  
+- IDS/IPS (Snort, Suricata)  
+- Web App Security  
 
-## 💻 Projects
-
-### **Pentest Toolbox Scripts**
-A collection of scripts for common penetration testing tasks.
-
-- **Features**: Brute-force login tester, basic web scanner, port scanner
-- **Technologies**: Python, Bash
-
-### **SQL Injection Tutorial**
-A professional guide to SQL Injection for ethical hacking education.
-
-- **Focus**: Techniques, prevention, and ethical hacking using SQL Injection
-- **Technologies**: Python, SQL
+🔮 Always exploring new hacking tools, techniques, and cybersecurity trends.
 
 ---
 
-## 🎯 Attacks I've Executed
+# ⚡ **Tech Stack & Tools**
 
-- **SQL Injection**: Performed various types of SQL injection attacks to exploit database vulnerabilities.
-- **XSS (Cross-Site Scripting)**: Successfully injected malicious scripts to exploit web applications.
-- **Brute Force Attacks**: Automated login attempts to identify weak passwords and account security flaws.
-- **Port Scanning**: Discovered open ports on target systems for security analysis.
-- **Network Sniffing**: Used tools like Wireshark to capture and analyze network traffic.
-- **Buffer Overflow**: Targeted vulnerable applications to execute arbitrary code.
+## 🧰 **Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,php,c" />
+</p>
 
----
+## 🔐 **Cybersecurity Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker" />
+</p>
 
-## 📊 GitHub Stats
-
-![Ghaithrb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghaithrb&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced penetration testing techniques
-- Security automation with **Ansible** and **Terraform**
-- Networking and cloud security (AWS, Azure)
+`Kali Linux` · `Burp Suite` · `Wireshark` · `Nmap` · `Metasploit`  
+`Snort` · `Suricata` · `OpenVAS` · `GNS3` · `pfSense`
 
 ---
 
-## 🤝 Let's Connect
+# 🛰️ **Projects**
 
-- 🔗 **LinkedIn**: [Ghaith's LinkedIn](https://www.linkedin.com/in/ghaithrb/)
-- 🐦 **Twitter**: [@ghaithrb](https://twitter.com/ghaithrb)
-- 💼 **GitHub**: [Ghaithrb's GitHub](https://github.com/ghaithrb)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+### 🔥 **Pentest Toolbox Scripts**
+Automated scripts for offensive security tasks.  
+**Includes:** brute-force tester, web scanner, port scanner  
+**Tech:** Python, Bash
 
 ---
 
+### 🧪 **SQL Injection Tutorial**
+Educational guide for understanding & preventing SQL injection attacks.  
+**Tech:** SQL, Python
+
+---
+
+# 🏴‍☠️ **Cyber Techniques Practiced**
+
+- SQL Injection  
+- XSS  
+- Brute-force auditing  
+- Port Scanning  
+- Network Sniffing  
+- Exploitation of vulnerable apps  
+- Malware-free exploitation labs  
+
+> ⚠️ *All activities performed only in legal, authorized, safe environments.*
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ghaithrb&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ghaithrb&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 **Achievements & Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghaithrb&theme=onestar&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+# 🐍 **Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghaithrb/ghaithrb/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌱 **Currently Learning**
+
+- Advanced PenTesting  
+- Terraform & Ansible  
+- Cloud Security (AWS / Azure)  
+- SOC Automation  
+
+---
+
+# 🤝 **Connect With Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ghaithrb/">
+    <img src="https://img.shields.io/badge/LinkedIn-9A4DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ghaithrb">
+    <img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://twitter.com/ghaithrb">
+    <img src="https://img.shields.io/badge/Twitter-5300A8?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📄 **License**
+
+This repository is licensed under the **MIT License**.
