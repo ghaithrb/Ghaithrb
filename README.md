@@ -47,7 +47,7 @@ role: Cybersecurity Engineer &amp; Network Specialist
 education:
   degree: Engineering Cycle in Computer Science
   school: Université Centrale — École Polytechnique de Tunisie
-  previous: "Licence in Systems &amp; Network Engineering (ISIKEF) — Très Bien"
+  previous: "Licence in Systems and Network Engineering (ISIKEF) — Très Bien"
 focus:
   - SOC Design &amp; Threat Monitoring
   - Network Security &amp; FTTH Infrastructure
