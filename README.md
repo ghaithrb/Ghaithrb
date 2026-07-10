@@ -149,7 +149,9 @@ Hands-on educational guide covering SQLi attack vectors and prevention.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaithrb&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
+<br/>
+
+<img src="https://ghchart.rshah.org/9A4DFF/ghaithrb" width="95%"/>
 
 </div>
 
@@ -159,14 +161,6 @@ Hands-on educational guide covering SQLi attack vectors and prevention.
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ghaithrb&theme=onestar&no-frame=true&margin-w=15&row=1" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ghaithrb/ghaithrb/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 ---
