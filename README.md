@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Ghaith%20Riabi&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Cybersecurity%20Engineer%20%7C%20Network%20%26%20Systems%20Specialist&amp;descAlignY=52&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Ghaith%20Riabi&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Cybersecurity%20Engineer%20%7C%20Network%20and%20Systems%20Specialist&amp;descAlignY=52&amp;descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=9A4DFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F;SOC+%7C+Network+Security+%7C+Ethical+Hacking;Engineering+Student+%40+Universit%C3%A9+Centrale;Securing+Networks%2C+One+Packet+at+a+Time+%E2%9A%A1" />
@@ -256,7 +256,7 @@ Simulated network with a DHCP server, launched DHCP Starvation attacks and analy
 <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-9A4DFF?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/CCNA-Intro%20to%20Networks-7F00FF?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/IBM-Cloud%20Computing%20Fundamentals-5300A8?style=for-the-badge&amp;logo=ibm&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Google-Git%20%26%20GitHub-4B0082?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Git%20and%20GitHub-4B0082?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Cisco-Network%20Technician%20Career%20Path-9A4DFF?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-7F00FF?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" />
@@ -311,7 +311,7 @@ Simulated network with a DHCP server, launched DHCP Starvation attacks and analy
 <div align="center">
 
 <img src="https://img.shields.io/badge/Advanced%20PenTesting-In%20Progress-9A4DFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Terraform%20%26%20Ansible-Learning-7F00FF?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform%20and%20Ansible-Learning-7F00FF?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Security-AWS%20%2F%20Azure-5300A8?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/SOC%20Automation-Exploring-4B0082?style=for-the-badge" />
 
